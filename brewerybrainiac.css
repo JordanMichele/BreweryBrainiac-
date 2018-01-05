@@ -1,0 +1,46 @@
+p{
+	color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#main {
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+article {
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: 2px solid black;
+    width: 25%;
+    margin-top: 10px;
+}
+
